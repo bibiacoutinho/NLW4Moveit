@@ -37,13 +37,22 @@ export function Countdown() {
                 </div>
             </div>
 
-            <button
-                type="button"
-                className={styles.countdownButton}
-                onClick={startCountdown}>
+            { isActive ? (
+                <button
+                    type="button"
+                    className={styles.countdownButton}
+                    onClick={startCountdown}>
 
-                {isActive ? 'Abandonar ciclo' : 'Iniciar o ciclo'}
-            </button>
+                    Abandonar ciclo
+                </button>) : (
+                    <button
+                        type="button"
+                        className={styles.countdownButton}
+                        onClick={startCountdown}>
+
+                        Iniciar o ciclo
+                    </button>
+                )}
         </div>
     );
 }
