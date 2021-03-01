@@ -10,7 +10,7 @@
  </p> 
  
 ## Sobre 🚀
-Projeto realizado durante o <strong>NLW#04</strong> da Rocketseat. Esse app tem como base a Técnica de Pomodoro, que durante o intervalo entre tarefas executadas,  proposto um desafio para o usuário executar ou não para ganhar experiência e subir de nível.
+Projeto realizado durante o <strong>NLW#04</strong> da Rocketseat. Esse app tem como base a Técnica de Pomodoro, que durante o intervalo entre tarefas executadas,  é proposto um desafio para o usuário executar para ganhar experiência e subir de nível.
 
 ## Telas 🎨
 <div align="center">
@@ -24,8 +24,23 @@ Projeto realizado durante o <strong>NLW#04</strong> da Rocketseat. Esse app tem 
 <ul>
   <li>React JS</li>
   <li>TypeScript</li>
+  <li>Node.js</li>
   <li>Next.js</li>
   <li>npm</li>
 </ul>
 
 ## Instalação 📦
+```bash
+
+    # Clonar o repositório
+    $ git clone https://github.com/bibiacoutinho/NLW4Moveit
+    
+    # Entrar no diretório
+    $ cd moveit
+
+    # Instalar as dependências
+    $ npm install
+
+    # Iniciar o projeto
+    $ npm run dev
+```
