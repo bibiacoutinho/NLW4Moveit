@@ -36,7 +36,7 @@ Projeto realizado durante o <strong>NLW#04</strong> da Rocketseat. Esse app tem 
     $ git clone https://github.com/bibiacoutinho/NLW4Moveit
     
     # Entrar no diretório
-    $ cd moveit
+    $ cd NLW4Moveit
 
     # Instalar as dependências
     $ npm install
