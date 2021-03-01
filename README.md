@@ -1,3 +1,3 @@
 <div align="center>
-  <img src="/img/moveit.png">
+  <img src="/img/moveit.png" />
 </div>
