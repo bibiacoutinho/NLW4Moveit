@@ -14,7 +14,7 @@ Projeto realizado durante o <strong>NLW#04</strong> da Rocketseat. Esse app tem 
 
 ## Telas 🎨
 <div align="center">
-  <img src="/img/tela1moveit.png" width="40%" />&nbsp;
+  <img src="/img/tela1moveitnew.png" width="40%" />&nbsp;
   <img src="/img/tela2moveit.png" width="40%" />
   <img src="/img/tela3moveit.png" width="40%" />&nbsp;
   <img src="/img/tela4moveit.png" width="40%" />
